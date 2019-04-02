@@ -1,5 +1,5 @@
-# SketchAAE
-Using AAE with SketchRNN
+# SketchRNN-Unsupervised-Classifier
+Unsupervised classification with SketchRNN in Pytorch
 
 Get sketches from and put them in the 'sketches' folder:
 
@@ -17,5 +17,3 @@ Review documentation about the sketches here, if needed:
 ## Project is based on:
 
 [Pytorch-Sketch-RNN](https://github.com/alexis-jacq/Pytorch-Sketch-RNN)
-
-[Adversarial Autoencoders (with Pytorch)](https://github.com/fducau/AAE_pytorch)
