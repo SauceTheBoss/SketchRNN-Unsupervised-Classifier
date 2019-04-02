@@ -1,7 +1,7 @@
 # SketchRNN-Unsupervised-Classifier
 Unsupervised classification with SketchRNN in Pytorch
 
-Get sketches from and put them in the 'sketches' folder:
+Get sketches from link below and put them in the 'sketches' folder:
 
 [https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn)
 	
